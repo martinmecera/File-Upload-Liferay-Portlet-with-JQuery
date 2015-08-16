@@ -4,4 +4,5 @@ bin/
 .classpath
 .idea/
 .tern-project
+file-upload-ui-portlet.iml
 
