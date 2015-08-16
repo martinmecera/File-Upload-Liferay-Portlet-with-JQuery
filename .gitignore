@@ -1,0 +1,7 @@
+bin/
+.settings/
+.project
+.classpath
+.idea/
+.tern-project
+
